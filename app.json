@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "beuthapp",
+    "slug": "beuthapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "beuthapp"
+}
